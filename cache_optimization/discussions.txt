@@ -1,0 +1,7 @@
+Doubts
+1. Does VanEmDe Bose tree has a heigth of the type 2^n ?
+2. How to visit the tree from leaf to root and back root to leaf by
+some relation of parent child in terms of index ?
+
+****** Post these in taiga.io ******
+
